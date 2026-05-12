@@ -25,7 +25,7 @@ Focus:
 
 <td width="45%" align="center">
 
-<img src="./aarav.jpeg" width="250"/>
+<img src="https://raw.githubusercontent.com/aaravchauhan6969/aaravchauhan6969/main/aarav.jpeg" width="250"/>
 
 </td>
 

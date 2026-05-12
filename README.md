@@ -25,7 +25,7 @@ Focus:
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaravchauhan6969&show_icons=true&bg_color=00000000&hide_border=true&title_color=00ff99&text_color=ffffff&icon_color=00ff99&rank_icon=github" height="220"/>
+<img src="./aarav.jpeg" width="250"/>
 
 </td>
 
